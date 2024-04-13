@@ -1,0 +1,14 @@
+D:\Visual\Shop\bin\Debug\net8.0\Shop.exe
+D:\Visual\Shop\bin\Debug\net8.0\Shop.deps.json
+D:\Visual\Shop\bin\Debug\net8.0\Shop.runtimeconfig.json
+D:\Visual\Shop\bin\Debug\net8.0\Shop.dll
+D:\Visual\Shop\bin\Debug\net8.0\Shop.pdb
+D:\Visual\Shop\obj\Debug\net8.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Shop\obj\Debug\net8.0\Shop.AssemblyInfoInputs.cache
+D:\Visual\Shop\obj\Debug\net8.0\Shop.AssemblyInfo.cs
+D:\Visual\Shop\obj\Debug\net8.0\Shop.csproj.CoreCompileInputs.cache
+D:\Visual\Shop\obj\Debug\net8.0\Shop.dll
+D:\Visual\Shop\obj\Debug\net8.0\refint\Shop.dll
+D:\Visual\Shop\obj\Debug\net8.0\Shop.pdb
+D:\Visual\Shop\obj\Debug\net8.0\Shop.genruntimeconfig.cache
+D:\Visual\Shop\obj\Debug\net8.0\ref\Shop.dll

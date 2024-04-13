@@ -1,0 +1,14 @@
+D:\Visual\225\bin\Debug\net8.0\225.exe
+D:\Visual\225\bin\Debug\net8.0\225.deps.json
+D:\Visual\225\bin\Debug\net8.0\225.runtimeconfig.json
+D:\Visual\225\bin\Debug\net8.0\225.dll
+D:\Visual\225\bin\Debug\net8.0\225.pdb
+D:\Visual\225\obj\Debug\net8.0\225.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\225\obj\Debug\net8.0\225.AssemblyInfoInputs.cache
+D:\Visual\225\obj\Debug\net8.0\225.AssemblyInfo.cs
+D:\Visual\225\obj\Debug\net8.0\225.csproj.CoreCompileInputs.cache
+D:\Visual\225\obj\Debug\net8.0\225.dll
+D:\Visual\225\obj\Debug\net8.0\refint\225.dll
+D:\Visual\225\obj\Debug\net8.0\225.pdb
+D:\Visual\225\obj\Debug\net8.0\225.genruntimeconfig.cache
+D:\Visual\225\obj\Debug\net8.0\ref\225.dll

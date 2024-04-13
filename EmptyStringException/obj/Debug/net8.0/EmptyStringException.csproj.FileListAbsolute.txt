@@ -1,0 +1,14 @@
+D:\Visual\EmptyStringException\bin\Debug\net8.0\EmptyStringException.exe
+D:\Visual\EmptyStringException\bin\Debug\net8.0\EmptyStringException.deps.json
+D:\Visual\EmptyStringException\bin\Debug\net8.0\EmptyStringException.runtimeconfig.json
+D:\Visual\EmptyStringException\bin\Debug\net8.0\EmptyStringException.dll
+D:\Visual\EmptyStringException\bin\Debug\net8.0\EmptyStringException.pdb
+D:\Visual\EmptyStringException\obj\Debug\net8.0\EmptyStringException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\EmptyStringException\obj\Debug\net8.0\EmptyStringException.AssemblyInfoInputs.cache
+D:\Visual\EmptyStringException\obj\Debug\net8.0\EmptyStringException.AssemblyInfo.cs
+D:\Visual\EmptyStringException\obj\Debug\net8.0\EmptyStringException.csproj.CoreCompileInputs.cache
+D:\Visual\EmptyStringException\obj\Debug\net8.0\EmptyStringException.dll
+D:\Visual\EmptyStringException\obj\Debug\net8.0\refint\EmptyStringException.dll
+D:\Visual\EmptyStringException\obj\Debug\net8.0\EmptyStringException.pdb
+D:\Visual\EmptyStringException\obj\Debug\net8.0\EmptyStringException.genruntimeconfig.cache
+D:\Visual\EmptyStringException\obj\Debug\net8.0\ref\EmptyStringException.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0utKMNBZ5VKW9mkJ3hgqRZ2K4quxiwax/7gAakQEBtZcN2+fc5D7VmtLeCofEdhkIspeRRzb7qAxTYqfssJLdw==",
+  "success": true,
+  "projectFilePath": "D:\\Visual\\EmptyStringException\\EmptyStringException.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.identity.client\\4.60.2\\microsoft.identity.client.4.60.2.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
